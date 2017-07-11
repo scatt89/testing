@@ -36,6 +36,12 @@ fabric.properties
 # Ignores the whole idea folder
 .idea/
 
+### Intellij+iml Patch ###
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
+
 ### Java ###
 # Compiled class file
 *.class
